@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/ls/Project/CPlus/MPC/build",
+  "command": "/usr/bin/c++  -DDO_NOT_USE_SHARED_MEMORY -DMAX_EXT_API_CONNECTIONS=255 -DNON_MATLAB_PARSING -I/home/ls/Project/CPlus/MPC/./include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include/stack -I/home/ls/Project/CPlus/MPC/./coppeliaSim/remoteApi -I/usr/local/include/yaml-cpp -isystem /usr/local/include/osqp -isystem /usr/local/include/eigen3   -pthread   -o CMakeFiles/MPC.dir/main.cpp.o -c /home/ls/Project/CPlus/MPC/main.cpp",
+  "file": "/home/ls/Project/CPlus/MPC/main.cpp"
+},
+{
+  "directory": "/home/ls/Project/CPlus/MPC/build",
+  "command": "/usr/bin/cc -DDO_NOT_USE_SHARED_MEMORY -DMAX_EXT_API_CONNECTIONS=255 -DNON_MATLAB_PARSING -I/home/ls/Project/CPlus/MPC/./include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include/stack -I/home/ls/Project/CPlus/MPC/./coppeliaSim/remoteApi -I/usr/local/include/yaml-cpp -isystem /usr/local/include/osqp -isystem /usr/local/include/eigen3    -o CMakeFiles/MPC.dir/coppeliaSim/remoteApi/extApi.c.o   -c /home/ls/Project/CPlus/MPC/coppeliaSim/remoteApi/extApi.c",
+  "file": "/home/ls/Project/CPlus/MPC/coppeliaSim/remoteApi/extApi.c"
+},
+{
+  "directory": "/home/ls/Project/CPlus/MPC/build",
+  "command": "/usr/bin/cc -DDO_NOT_USE_SHARED_MEMORY -DMAX_EXT_API_CONNECTIONS=255 -DNON_MATLAB_PARSING -I/home/ls/Project/CPlus/MPC/./include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include/stack -I/home/ls/Project/CPlus/MPC/./coppeliaSim/remoteApi -I/usr/local/include/yaml-cpp -isystem /usr/local/include/osqp -isystem /usr/local/include/eigen3    -o CMakeFiles/MPC.dir/coppeliaSim/remoteApi/extApiPlatform.c.o   -c /home/ls/Project/CPlus/MPC/coppeliaSim/remoteApi/extApiPlatform.c",
+  "file": "/home/ls/Project/CPlus/MPC/coppeliaSim/remoteApi/extApiPlatform.c"
+},
+{
+  "directory": "/home/ls/Project/CPlus/MPC/build",
+  "command": "/usr/bin/c++  -DDO_NOT_USE_SHARED_MEMORY -DMAX_EXT_API_CONNECTIONS=255 -DNON_MATLAB_PARSING -I/home/ls/Project/CPlus/MPC/./include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include/stack -I/home/ls/Project/CPlus/MPC/./coppeliaSim/remoteApi -I/usr/local/include/yaml-cpp -isystem /usr/local/include/osqp -isystem /usr/local/include/eigen3   -pthread   -o CMakeFiles/MPC.dir/src/CarModule.cpp.o -c /home/ls/Project/CPlus/MPC/src/CarModule.cpp",
+  "file": "/home/ls/Project/CPlus/MPC/src/CarModule.cpp"
+},
+{
+  "directory": "/home/ls/Project/CPlus/MPC/build",
+  "command": "/usr/bin/c++  -DDO_NOT_USE_SHARED_MEMORY -DMAX_EXT_API_CONNECTIONS=255 -DNON_MATLAB_PARSING -I/home/ls/Project/CPlus/MPC/./include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include/stack -I/home/ls/Project/CPlus/MPC/./coppeliaSim/remoteApi -I/usr/local/include/yaml-cpp -isystem /usr/local/include/osqp -isystem /usr/local/include/eigen3   -pthread   -o CMakeFiles/MPC.dir/src/RefWay.cpp.o -c /home/ls/Project/CPlus/MPC/src/RefWay.cpp",
+  "file": "/home/ls/Project/CPlus/MPC/src/RefWay.cpp"
+},
+{
+  "directory": "/home/ls/Project/CPlus/MPC/build",
+  "command": "/usr/bin/c++  -DDO_NOT_USE_SHARED_MEMORY -DMAX_EXT_API_CONNECTIONS=255 -DNON_MATLAB_PARSING -I/home/ls/Project/CPlus/MPC/./include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include/stack -I/home/ls/Project/CPlus/MPC/./coppeliaSim/remoteApi -I/usr/local/include/yaml-cpp -isystem /usr/local/include/osqp -isystem /usr/local/include/eigen3   -pthread   -o CMakeFiles/MPC.dir/src/SomeFunc.cpp.o -c /home/ls/Project/CPlus/MPC/src/SomeFunc.cpp",
+  "file": "/home/ls/Project/CPlus/MPC/src/SomeFunc.cpp"
+},
+{
+  "directory": "/home/ls/Project/CPlus/MPC/build",
+  "command": "/usr/bin/c++  -DDO_NOT_USE_SHARED_MEMORY -DMAX_EXT_API_CONNECTIONS=255 -DNON_MATLAB_PARSING -I/home/ls/Project/CPlus/MPC/./include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include/stack -I/home/ls/Project/CPlus/MPC/./coppeliaSim/remoteApi -I/usr/local/include/yaml-cpp   -pthread   -o CMakeFiles/SomeFunc.dir/src/SomeFunc.cpp.o -c /home/ls/Project/CPlus/MPC/src/SomeFunc.cpp",
+  "file": "/home/ls/Project/CPlus/MPC/src/SomeFunc.cpp"
+},
+{
+  "directory": "/home/ls/Project/CPlus/MPC/build",
+  "command": "/usr/bin/c++  -DDO_NOT_USE_SHARED_MEMORY -DMAX_EXT_API_CONNECTIONS=255 -DNON_MATLAB_PARSING -I/home/ls/Project/CPlus/MPC/./include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include -I/home/ls/Project/CPlus/MPC/./coppeliaSim/include/stack -I/home/ls/Project/CPlus/MPC/./coppeliaSim/remoteApi -I/usr/local/include/yaml-cpp   -pthread   -o CMakeFiles/RefWay.dir/src/RefWay.cpp.o -c /home/ls/Project/CPlus/MPC/src/RefWay.cpp",
+  "file": "/home/ls/Project/CPlus/MPC/src/RefWay.cpp"
+}
+]

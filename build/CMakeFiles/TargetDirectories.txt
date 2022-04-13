@@ -1,0 +1,5 @@
+/home/ls/Project/CPlus/MPC/build/CMakeFiles/rebuild_cache.dir
+/home/ls/Project/CPlus/MPC/build/CMakeFiles/MPC.dir
+/home/ls/Project/CPlus/MPC/build/CMakeFiles/SomeFunc.dir
+/home/ls/Project/CPlus/MPC/build/CMakeFiles/edit_cache.dir
+/home/ls/Project/CPlus/MPC/build/CMakeFiles/RefWay.dir

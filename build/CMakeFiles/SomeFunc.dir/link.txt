@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSomeFunc.a  CMakeFiles/SomeFunc.dir/src/SomeFunc.cpp.o
+/usr/bin/ranlib libSomeFunc.a

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Paras.h
+yaml-cpp/yaml.h
+../include/yaml-cpp/yaml.h
+iostream
+-
+stdlib.h
+-
+string
+-
+
+../include/RefWay.h
+Paras.h
+../include/Paras.h
+cmath
+-
+string
+-
+
+/home/ls/Project/CPlus/MPC/src/RefWay.cpp
+RefWay.h
+/home/ls/Project/CPlus/MPC/src/RefWay.h
+

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Paras.h
+yaml-cpp/yaml.h
+../include/yaml-cpp/yaml.h
+iostream
+-
+stdlib.h
+-
+string
+-
+
+../include/SomeFunc.h
+OsqpEigen/OsqpEigen.h
+../include/OsqpEigen/OsqpEigen.h
+Paras.h
+../include/Paras.h
+yaml-cpp/yaml.h
+../include/yaml-cpp/yaml.h
+Eigen/Dense
+-
+
+/home/ls/Project/CPlus/MPC/src/SomeFunc.cpp
+SomeFunc.h
+/home/ls/Project/CPlus/MPC/src/SomeFunc.h
+

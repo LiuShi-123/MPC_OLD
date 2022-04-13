@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRefWay.a  CMakeFiles/RefWay.dir/src/RefWay.cpp.o
+/usr/bin/ranlib libRefWay.a
